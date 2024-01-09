@@ -13,7 +13,7 @@ it will be help full for the users who will take long time to complete their tas
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/harshasamavedam/Ecnomizer.git
 ```
 
 Go to the project directory
